@@ -61,6 +61,17 @@ The model predicts approximately **11% growth over the next 6 months**, helping 
 
 ---
 
+
 ## ▶ How to Run
 
 1. Install dependencies:
+2. pip install pandas numpy scikit-learn matplotlib
+
+
+2. Run the script:
+
+python forecast.py
+
+
+3. The output file will be generated:
+- sales_forecast_output.csv
